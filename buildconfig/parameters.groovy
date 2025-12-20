@@ -1,4 +1,4 @@
-env.build_version="00.00.03"
+env.build_version="00.00.04"
 env.framework="nodejs"
 env.deployment="true"
 env.namespace="dev-cee-1"
